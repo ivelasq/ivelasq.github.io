@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-6cd2623c7578.js"></script>
   
 
-  <title>webR-quarto-demos/webr-setup.html at main · RVerse-Tutorials/webR-quarto-demos</title>
+  <title>webR-quarto-demos/webr-serviceworker.js at main · RVerse-Tutorials/webR-quarto-demos</title>
 
 
 
@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="F5A0:199E:48B2B1A:4CC4F99:640C2957" data-turbo-transient="true" /><meta name="html-safe-nonce" content="ed28e425ed51f8aae4b30dc713d8d59b89ff0035cc71f8413586943277d36739" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9SVmVyc2UtVHV0b3JpYWxzL3dlYlItcXVhcnRvLWRlbW9zIiwicmVxdWVzdF9pZCI6IkY1QTA6MTk5RTo0OEIyQjFBOjRDQzRGOTk6NjQwQzI5NTciLCJ2aXNpdG9yX2lkIjoiNDcyNTcxOTY2NTI0OTA2NDcwMSIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="5dceb7865d2801aeb1baa3d97d0bbec30a9f4f9ed8b55c0123d8bf3442887db4" data-turbo-transient="true" />
+  <meta name="request-id" content="F714:691B:CA3075:D6A58B:640C2AF9" data-turbo-transient="true" /><meta name="html-safe-nonce" content="ed28e425ed51f8aae4b30dc713d8d59b89ff0035cc71f8413586943277d36739" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9SVmVyc2UtVHV0b3JpYWxzL3dlYlItcXVhcnRvLWRlbW9zIiwicmVxdWVzdF9pZCI6IkY3MTQ6NjkxQjpDQTMwNzU6RDZBNThCOjY0MEMyQUY5IiwidmlzaXRvcl9pZCI6IjQ3MjU3MTk2NjUyNDkwNjQ3MDEiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="ee4e9d92f0bc95339615283aef02d5f9b19882a5dde704ee1e0094aeb0120bb2" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:612321757" data-turbo-transient>
@@ -114,16 +114,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Experiments with generating a standalone Quarto Document using Web R - webR-quarto-demos/webr-setup.html at main · RVerse-Tutorials/webR-quarto-demos">
+      <meta name="description" content="Experiments with generating a standalone Quarto Document using Web R - webR-quarto-demos/webr-serviceworker.js at main · RVerse-Tutorials/webR-quarto-demos">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/22060fa4fc7f8e807e92863184cba02beae7067d768af5a99be8d3c14ac05de2/RVerse-Tutorials/webR-quarto-demos" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="webR-quarto-demos/webr-setup.html at main · RVerse-Tutorials/webR-quarto-demos" /><meta name="twitter:description" content="Experiments with generating a standalone Quarto Document using Web R - webR-quarto-demos/webr-setup.html at main · RVerse-Tutorials/webR-quarto-demos" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/22060fa4fc7f8e807e92863184cba02beae7067d768af5a99be8d3c14ac05de2/RVerse-Tutorials/webR-quarto-demos" /><meta property="og:image:alt" content="Experiments with generating a standalone Quarto Document using Web R - webR-quarto-demos/webr-setup.html at main · RVerse-Tutorials/webR-quarto-demos" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="webR-quarto-demos/webr-setup.html at main · RVerse-Tutorials/webR-quarto-demos" /><meta property="og:url" content="https://github.com/RVerse-Tutorials/webR-quarto-demos" /><meta property="og:description" content="Experiments with generating a standalone Quarto Document using Web R - webR-quarto-demos/webr-setup.html at main · RVerse-Tutorials/webR-quarto-demos" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/22060fa4fc7f8e807e92863184cba02beae7067d768af5a99be8d3c14ac05de2/RVerse-Tutorials/webR-quarto-demos" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="webR-quarto-demos/webr-serviceworker.js at main · RVerse-Tutorials/webR-quarto-demos" /><meta name="twitter:description" content="Experiments with generating a standalone Quarto Document using Web R - webR-quarto-demos/webr-serviceworker.js at main · RVerse-Tutorials/webR-quarto-demos" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/22060fa4fc7f8e807e92863184cba02beae7067d768af5a99be8d3c14ac05de2/RVerse-Tutorials/webR-quarto-demos" /><meta property="og:image:alt" content="Experiments with generating a standalone Quarto Document using Web R - webR-quarto-demos/webr-serviceworker.js at main · RVerse-Tutorials/webR-quarto-demos" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="webR-quarto-demos/webr-serviceworker.js at main · RVerse-Tutorials/webR-quarto-demos" /><meta property="og:url" content="https://github.com/RVerse-Tutorials/webR-quarto-demos" /><meta property="og:description" content="Experiments with generating a standalone Quarto Document using Web R - webR-quarto-demos/webr-serviceworker.js at main · RVerse-Tutorials/webR-quarto-demos" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/12236152/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjIzNjE1MiwicyI6MTA1MjE5OTcyOSwiYyI6MTE3NTUxMzA0MywidCI6MTY3ODUxODcwNX0=--fbc1f66f3db509995fa32da04141ddfe041a7c967097adc111908848030a2d23" data-refresh-url="/_alive" data-session-id="fff79ce0627859032a42612ff140f2e43224fd32b5c42d341f65ce7f97952d4c">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/12236152/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjIzNjE1MiwicyI6MTA1MjE5OTcyOSwiYyI6MTIxNjA5ODI5MywidCI6MTY3ODUxOTA1M30=--6321876a7211314249ccdbc0f31f3488ca22239ed526d82c8e794b6b5443f133" data-refresh-url="/_alive" data-session-id="fff79ce0627859032a42612ff140f2e43224fd32b5c42d341f65ce7f97952d4c">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -153,7 +153,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-setup.html" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob colorblind-themes-v1">
 
 
@@ -243,7 +243,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="aZArHjvLSKklaiDI2hyo16AG0Ki_xKWdfZWLhijImGaFzdPESG8Tg4HF3Rw9okv6FjooDkt3fMXV0nKIrReP5w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="RN7MHFhe5Sq0SZ9SCZi-VAqCgMAWVBCepGatQ60O78uogzTGK_q-ABDmYobuJl15vL54ZuLnycYMIVRNKNH4Sg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -442,7 +442,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ivelasq&quot;,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-setup.html&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="15c74a3027119a0e8ca82204725802deccfac1bc4b12abff95dfe9f71210ccc0" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ivelasq&quot;,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="090aca1483fe208d226023fc1b228773de48b58519526a5e9b8c44e3afca7e1f" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -450,7 +450,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/12236152?s=40&amp;v=4" width="20" height="20" alt="@ivelasq" />
       ivelasq
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Y8w67wWn6CVjSCi3hqyQdTcmdDCWtcbeGxV0sC6ZRdpOMVFXJH1AqATvHvXRM8a651eadcqAvKYeOxjzVkxLSA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PuV-vrUF-ko40dIswMFovcmp4ecqsEyT2gL8XNiLdjgTGBUGlN9Sx1925G6XXj5yGdgPonaFNuvfLJAfoF54qg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -485,7 +485,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIyMzYxNTIiLCJ0IjoxNjc4NTE4NzA1fQ==--c2d284f1a05fe4096cea32661a2aba861c81758c01166d70b006c4e01c1e2396" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIyMzYxNTIiLCJ0IjoxNjc4NTE5MDUzfQ==--a6722c4aced38e47745d0ccf17384aaf204b85c3104ba3fa6124c14a4d3394dc" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -628,7 +628,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIyMzYxNTIiLCJ0IjoxNjc4NTE4NzA1fQ==--c2d284f1a05fe4096cea32661a2aba861c81758c01166d70b006c4e01c1e2396" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIyMzYxNTIiLCJ0IjoxNjc4NTE5MDUzfQ==--a6722c4aced38e47745d0ccf17384aaf204b85c3104ba3fa6124c14a4d3394dc" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -704,7 +704,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-setup.html&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="827dd084ec9f882110f942a1c2acd24dfe91caec61223590c8a632b02d53d109" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="7283f37b419ccd41c678e4b2f4a665e57101b635ad75db2a4e326d434ac951c8" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -756,7 +756,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BvwT_OgAC2Yow5s6GBthfHVC88ko1-7Mt8bxtAmioxzPc4_CnIANWnqfBWKo_rNPQHWTQ6b3AtbDvW5DTHnTCQ" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="R8Pbri8Z_2oo2zwXQpy0k80DrA5ZjbOTsyuUU4Ud_0qOTEeQW5n5VnqHok_yeWag-DTMhNetX4nHUAukwMaPXw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="612321757">
 
@@ -884,7 +884,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IfGlC9m58bd4wWgB7t_fs5y280GN1v6kRcecySOMdlDofjk1rTn3iyqd9lleOg2AqYGTywP2Er4xvAM-ZlcGRQ" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nT8HoOv7zU8se3da0pTEp3lbuI9SibwCW_uIgF83HjVUsJuen3vLc34n6QJicRaUTGzYBdypUBgvgBd3GuxuIA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="612321757">
 
@@ -1044,11 +1044,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/RVerse-Tutorials/webR-quarto-demos/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-setup.html&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="75bfdcfd9872fecdf9a19dd110da05d0603a50a60988ebff44a65e6c3c6b1bbb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/RVerse-Tutorials/webR-quarto-demos/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="8e6226e1c193b9a089ab091734a57a19d25f1a56485b3e8affdcf3f853b0ab3f" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="4" data-view-component="true" class="Counter">4</span>
-</a>    <tool-tip id="tooltip-3f612575-0f11-4aff-9b45-d23b4cdb5a60" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of RVerse-Tutorials/webR-quarto-demos</tool-tip>
+</a>    <tool-tip id="tooltip-c9539eaf-fc64-42ae-9f66-4874676d2573" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of RVerse-Tutorials/webR-quarto-demos</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-612321757" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1063,13 +1063,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-456062">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2d368e">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-456062"
+        id="filter-menu-2d368e"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1111,10 +1111,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wrrfC8RrR7gAhd3sxwaWbHGohzD-LQZiRdNkvZF1mof9Sxtpo3X4BBD4xX5TngD6KSJ6zfJmBik-zOXYTf2U4w" autocomplete="off" />
-          <input type="hidden" value="Jh8Dfq9HtCQPjDw7z64_8aWbHTcs_SiN8s7iLN-_l4sZ7sccyFkLmB_xJKlbNqln_RHgyiC2KMaJ0WNJAzeZ7w" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hxlUd70o2w_KjdiySdnUVd448QoINeEjQdsCgB5PDsS46JAV2jZks9rwwCDdQULDhrIM9wR-4Wg6xIPlwscAoA" autocomplete="off" />
+          <input type="hidden" value="mxVE9LiP9Ht3ruOY_u6WMVZFF6DAsDJA1Wp7voOaywik5ICW35FLx2fT-wpqdgCnDs_qXcz7MguudfrbXxLFbA" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-setup.html&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="2154f2af4532738fd37f9814bfbb7c22c5557bfc0fdbb1fac150f186a166df39" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="fc7d4af430f1c147d8a6d5414694d876391fba0c3fe12b61765f2847153900df" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -1132,13 +1132,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4a26c8">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-829c33">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-4a26c8"
+        id="filter-menu-829c33"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1159,9 +1159,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NejnqlYxNM1bQPZYD9drsHT0ojDxxUVqq-beS7qIx7qPXPxNFFR4V1ZPEPDGgKWUQIiNapsEEPklIoAuN_LHzQ" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BM0YZREnHaYU2TO-aGUaeAKD7arKqHqYlomWLLl9r2u-eQOCU0JRPBnW1RahMtRcNv_C8KBpLwsYTchJNAevHA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-setup.html&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="c58963d1de287f21cde90e0bf48b3b9255955ecaf5fa84baddcd10b6c004d02e" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="681c9dc641bc1f3bc4036c51993bf381be2b2a7f3a77302913ef361a15a38ae1" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -1179,13 +1179,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4a26c8">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-829c33">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-4a26c8"
+        id="filter-menu-829c33"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1356,7 +1356,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/RVerse-Tutorials/webR-quarto-demos/blob/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-setup.html">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/RVerse-Tutorials/webR-quarto-demos/blob/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-serviceworker.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1364,7 +1364,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-setup.html&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="16adc0f5873c0a7fe60ad56ed1bb24bc29951e12c4fe43fd93ccdf142dad542a">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="0d34e49a74fdf7bdb428a90cc67af9008b3ad0e42d3457df8c3aadc08d7fa558">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1445,7 +1445,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/{{ urlEncodedRefName }}/webr-setup.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/{{ urlEncodedRefName }}/webr-serviceworker.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -1487,7 +1487,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/{{ urlEncodedRefName }}/webr-setup.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/{{ urlEncodedRefName }}/webr-serviceworker.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -1548,7 +1548,48 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/RVerse-Tutorials/webR-quarto-demos"><span>webR-quarto-demos</span></a></span></span><span class="separator">/</span><strong class="final-path">webr-setup.html</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/RVerse-Tutorials/webR-quarto-demos"><span>webR-quarto-demos</span></a></span></span><span class="separator">/</span><strong class="final-path">webr-serviceworker.js</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:612321757,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="ef9edd94fd6678440968c0762f4ed6fee05124a18a06ed0ffc0365c0b00a184b" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/RVerse-Tutorials/webR-quarto-demos/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -1559,7 +1600,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-setup.html&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="0a21de7f82c012bd29ff1e46186bc4797ee0e761f5049f45c51feb0af7b60be1" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/RVerse-Tutorials/webR-quarto-demos/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:612321757,&quot;originating_url&quot;:&quot;https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/main/webr-serviceworker.js&quot;,&quot;user_id&quot;:12236152}}" data-hydro-click-hmac="b9b2235caa9bd3da5efa3c413839e38e8217595d8dc2c8c1d193f38fe98a3faf" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/RVerse-Tutorials/webR-quarto-demos/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1569,15 +1610,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="webr-setup.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="webr-serviceworker.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-setup.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/RVerse-Tutorials/webR-quarto-demos/blob/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-serviceworker.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1608,80 +1655,17 @@
     <include-fragment src="/RVerse-Tutorials/webR-quarto-demos/spoofed_commit_check/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/eeholmes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/eeholmes"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/2545978?s=48&amp;v=4" width="24" height="24" alt="@eeholmes" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/eeholmes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/eeholmes">eeholmes</a>
+  <include-fragment src="/RVerse-Tutorials/webR-quarto-demos/contributors/main/webr-serviceworker.js" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="first cleanup" class="Link--secondary" href="/RVerse-Tutorials/webR-quarto-demos/commit/3b16858bb7ea73697a9c35c61d0dfe6a8ef5c2e3">first cleanup</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/RVerse-Tutorials/webR-quarto-demos/commit/3b16858bb7ea73697a9c35c61d0dfe6a8ef5c2e3/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/RVerse-Tutorials/webR-quarto-demos/commit/3b16858bb7ea73697a9c35c61d0dfe6a8ef5c2e3" data-pjax>3b16858</a>
-            <span itemprop="dateModified"><relative-time datetime="2023-03-10T17:54:42Z" class="no-wrap">Mar 11, 2023</relative-time></span>
-          </span>
-
-          <a data-pjax href="/RVerse-Tutorials/webR-quarto-demos/commits/main/webr-setup.html" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/RVerse-Tutorials/webR-quarto-demos/contributors-list/main/webr-setup.html" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -1705,23 +1689,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      25 lines (25 sloc)
+      1 lines (1 sloc)
       <span class="file-info-divider"></span>
-    873 Bytes
+    70 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/RVerse-Tutorials/webR-quarto-demos/raw/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-setup.html" href="/RVerse-Tutorials/webR-quarto-demos/raw/main/webr-setup.html" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/RVerse-Tutorials/webR-quarto-demos/blame/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-setup.html" href="/RVerse-Tutorials/webR-quarto-demos/blame/main/webr-setup.html" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/RVerse-Tutorials/webR-quarto-demos/raw/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-serviceworker.js" href="/RVerse-Tutorials/webR-quarto-demos/raw/main/webr-serviceworker.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/RVerse-Tutorials/webR-quarto-demos/blame/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-serviceworker.js" href="/RVerse-Tutorials/webR-quarto-demos/blame/main/webr-serviceworker.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/edit/main/webr-setup.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RTmn8AIwUGqVoDZdG-V19ghJQ6e9mtflEyrI1bqdQU1-9XJZV0NLD9E6prUg2S6pqlUbTzCmczZKToPoCFd7zA" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/edit/main/webr-serviceworker.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cOAhfw8a_xQ49uWL_88GztNbKVRou3Pq5kG96oWzbLuERRMeq83V0uO3-6n9Nr4WEl93b8qpxzSNHIMuWd83zw" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1731,7 +1715,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/edit/main/webr-setup.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UxewDfORFPk9O1gZXKmazbGiUWobL-LyRYDHlbtJAu5o22WkpuIPnHmhyPFnlcGSE74JgpYTRiEc5IyoCYM4bw" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/edit/main/webr-serviceworker.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6VCniqpYL0NBDse2Re7uDkouVBCAOio0vsrN-gLkDfYd9ZXrDo8FhZpP2ZRHF1bWiyoKKyIonurVl_M-3ohWgg" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1739,7 +1723,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/RVerse-Tutorials/webR-quarto-demos?branch=main&amp;filepath=webr-setup.html" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/RVerse-Tutorials/webR-quarto-demos?branch=main&amp;filepath=webr-serviceworker.js" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -1753,7 +1737,7 @@
   </div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/delete/main/webr-setup.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Jpvxfp5z0EtCa6zVGdNb_e4YwidONjF5cIdksmzAp6Xd7939GXgmrQDntK6y9jXuB8WTASrvoYsCJ3tDeK5jjg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/RVerse-Tutorials/webR-quarto-demos/delete/main/webr-serviceworker.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rmkFtyLRS8nGWEvkfAY9j6tg18LAUfe4HOLkFJuqh4hWrzFTieKqPlTA6wCG2KXg7-aUlfY9Zg2U2VX0RXXiJg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1781,32 +1765,32 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/RVerse-Tutorials/webR-quarto-demos?branch=main&amp;filepath=webr-setup.html">
+                   href="x-github-client://openRepo/https://github.com/RVerse-Tutorials/webR-quarto-demos?branch=main&amp;filepath=webr-serviceworker.js">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/RVerse-Tutorials/webR-quarto-demos/raw/main/webr-setup.html">
+            <a class="dropdown-item" href="/RVerse-Tutorials/webR-quarto-demos/raw/main/webr-serviceworker.js">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/RVerse-Tutorials/webR-quarto-demos/blame/main/webr-setup.html">
+              <a class="dropdown-item" href="/RVerse-Tutorials/webR-quarto-demos/blame/main/webr-serviceworker.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/RVerse-Tutorials/webR-quarto-demos/edit/main/webr-setup.html">Edit file</a>
+                <a class="dropdown-item" href="/RVerse-Tutorials/webR-quarto-demos/edit/main/webr-serviceworker.js">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:612321757,&quot;actor_id&quot;:12236152,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/RVerse-Tutorials/webR-quarto-demos/delete/main/webr-setup.html">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/RVerse-Tutorials/webR-quarto-demos/delete/main/webr-serviceworker.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1815,7 +1799,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -1842,106 +1826,10 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="webr-setup.html">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="webr-serviceworker.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/codemirror.min.css</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>style</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">  .<span class=pl-c1>CodeMirror</span> <span class=pl-ent>pre</span> {</td>
-        </tr>
-        <tr>
-          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>background-color</span><span class=pl-kos>:</span> unset <span class=pl-k>!important</span>;</td>
-        </tr>
-        <tr>
-          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">  .<span class=pl-c1>btn-webr</span> {</td>
-        </tr>
-        <tr>
-          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>background-color</span><span class=pl-kos>:</span> <span class=pl-pds><span class=pl-kos>#</span>EEEEEE</span>;</td>
-        </tr>
-        <tr>
-          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>border-bottom-left-radius</span><span class=pl-kos>:</span> <span class=pl-c1>0</span>;</td>
-        </tr>
-        <tr>
-          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>border-bottom-right-radius</span><span class=pl-kos>:</span> <span class=pl-c1>0</span>;</td>
-        </tr>
-        <tr>
-          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>style</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/codemirror.min.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/mode/r/r.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>module</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>import</span> <span class=pl-kos>{</span> <span class=pl-v>WebR</span> <span class=pl-kos>}</span> <span class=pl-k>from</span> <span class=pl-s>&quot;https://webr.r-wasm.org/v0.1.0/webr.mjs&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>globalThis</span><span class=pl-kos>.</span><span class=pl-c1>webR</span> <span class=pl-c1>=</span> <span class=pl-k>new</span> <span class=pl-v>WebR</span><span class=pl-kos>(</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>SW_URL</span>: <span class=pl-s>&quot;/&quot;</span></td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>await</span> <span class=pl-s1>globalThis</span><span class=pl-kos>.</span><span class=pl-c1>webR</span><span class=pl-kos>.</span><span class=pl-en>init</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>globalThis</span><span class=pl-kos>.</span><span class=pl-c1>webRCodeShelter</span> <span class=pl-c1>=</span> <span class=pl-k>await</span> <span class=pl-k>new</span> <span class=pl-s1>globalThis</span><span class=pl-kos>.</span><span class=pl-c1>webR</span><span class=pl-kos>.</span><span class=pl-c1>Shelter</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>querySelectorAll</span><span class=pl-kos>(</span><span class=pl-s>&quot;.btn-webr&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>btn</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>btn</span><span class=pl-kos>.</span><span class=pl-c1>innerText</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;Run code&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>btn</span><span class=pl-kos>.</span><span class=pl-c1>disabled</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-en>importScripts</span><span class=pl-kos>(</span><span class=pl-s>&#39;https://webr.r-wasm.org/v0.1.0/webr-serviceworker.js&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
   </table>
 </div>
@@ -1967,7 +1855,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/RVerse-Tutorials/webR-quarto-demos/blame/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-setup.html">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/RVerse-Tutorials/webR-quarto-demos/blame/611cb807dddcb19fabd696595f1f8a1b7a4a8fdb/webr-serviceworker.js">View git blame</a></li>
       </ul>
     </details-menu>
   </details>
@@ -1988,6 +1876,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/RVerse-Tutorials/webR-quarto-demos/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
